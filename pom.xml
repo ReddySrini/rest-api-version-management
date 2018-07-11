@@ -5,7 +5,7 @@
 
     <groupId>com.mindstix.web.api.management</groupId>
     <artifactId>rest-api-version-management</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RELEASE</version>
     <packaging>jar</packaging>
 
     <name>ReST API Version Management</name>
